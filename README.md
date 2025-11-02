@@ -41,22 +41,7 @@ I'm a professional trader with a passion for digital marketing and business grow
   ![Risk Management](https://img.shields.io/badge/Risk_Management-FDCB6E?style=for-the-badge&logo=risk-management&logoColor=black)
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddharthrtp&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthrtp&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthrtp&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddharthrtp&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ### 🎯 Notable Projects
 
@@ -97,32 +82,6 @@ I'm a professional trader with a passion for digital marketing and business grow
   </a>
 </div>
 
-## 📈 Business Growth Journey
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthrtp&theme=radical&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/siddharthrtp/siddharthrtp/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-## 📝 Marketing Insights
-
-<!-- BLOG-POST-LIST:START -->
-- [5 Digital Marketing Strategies for Small Businesses](link-to-post-1)
-- [Balancing Trading and Entrepreneurship: My Journey](link-to-post-2)
-- [Portfolio Management in Volatile Markets](link-to-post-3)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤖 GitHub Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddharthrtp&style=for-the-badge&color=41B883" alt="Profile Views" />
-</div>
-
 ---
 
 <div align="center">
@@ -147,31 +106,9 @@ I'm a professional trader with a passion for digital marketing and business grow
 
 ---
 
-## 🎨 Customization Guide
-
-This README is tailored for Siddharth's profile as a trader and digital marketing agency builder. To further customize:
-
-1. Add your actual LinkedIn and Twitter profiles
-2. Update the projects section with your real projects
-3. Add your actual blog posts if you have any
-4. Customize the colors and themes to match your preference
-5. Add your actual email address
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
 </div>
-
----
-
-## 🤝 Acknowledgments
-
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
-- [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
